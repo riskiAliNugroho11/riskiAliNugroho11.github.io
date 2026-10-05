@@ -1,0 +1,6 @@
+{
+  "name": "MEDITO - Medication Digital Monitoring",
+  "description": "Complete mobile app UI design system and interactive prototype for MEDITO with 15 accessible healthcare screens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
